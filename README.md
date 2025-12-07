@@ -24,7 +24,7 @@ Développeur passionné | Créateur de jeux 2D | Fan de design minimaliste & cha
 
 | Projet | Description | Lien |
 |--------|-------------|------|
-| 🧠 **Moteur d’échecs IA** | IA capable d’apprendre et de jouer comme un grand maître | [GitHub](https://github.com/NickJones/ChessAI) |
+| 🧠 **Simulateur de controle aérien** | Jeu afin de comprendre le principe du controle aérien  | [GitHub](https://github.com/Maaar31/skyline-control) |
 | 🎮 **Jeu 2D** | Jeu type space invaders | [GitHub](https://github.com/Maaar31/neon-pulse) |
 
 ---
