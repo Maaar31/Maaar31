@@ -1,13 +1,28 @@
 # Salut, je suis BAKENO 👋
 
-Développeur Full-Stack | Créateur d'expériences web interactives | Passionné de jeux 2D  
+Développeur créatif • Full-Stack • Jeux 2D • IA • Expériences web immersives
 
-💻 J’écris du code, je crée des expériences immersives et je laisse ma créativité guider mes projets.  
-🎮 Entre JavaScript et Python, j'aime concevoir des applications web innovantes, des jeux et des outils pratiques.
+💻 Je conçois des applications web, des outils utiles et des projets interactifs qui allient technique, design et créativité.  
+🎮 Mon travail se situe à la croisée du développement web, du gameplay et de l’automatisation intelligente.
 
 ---
 
-## 🛠 Compétences
+## À propos
+
+Je suis un développeur passionné par la création de projets originaux et fonctionnels.  
+Mon travail combine :
+
+- développement d’applications web modernes
+- création de jeux 2D et prototypes interactifs
+- APIs REST et services backend
+- automatisation et systèmes IA
+- interfaces immersives et design utilisateur
+
+Je cherche à concevoir des expériences utiles, lisibles et engageantes, avec un fort souci de qualité et de créativité.
+
+---
+
+## 🛠 Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -24,41 +39,32 @@ Développeur Full-Stack | Créateur d'expériences web interactives | Passionné
 
 ## 🎯 Projets Phares
 
-| Projet | Description | Technologies | Lien |
-|--------|-------------|--------------|------|
-| 💬 **Awkward Response API** | API REST avec 3600+ réponses awkward catégorisées + frontend glassmorphism premium | JavaScript | [GitHub](https://github.com/Maaar31/awkward-response-for-all) |
-| 🤖 **J.A.R.V.I.S** | Assistant intelligent et système d'automatisation | Python | [GitHub](https://github.com/Maaar31/J.A.R.V.I.S) |
-| 🎵 **Spotify Music Visualizer** | Visualiseur de musique interactif pour Spotify | JavaScript | [GitHub](https://github.com/Maaar31/spotify-music-visualizer) |
-| 🔐 **Password Manager** | Gestionnaire de mots de passe sécurisé et gratuit | Python | [GitHub](https://github.com/Maaar31/password_manager) |
-| ✈️ **Skyline Control** | Simulateur de contrôle aérien pour comprendre les principes ATC | JavaScript | [GitHub](https://github.com/Maaar31/skyline-control) |
-| 🎮 **Neon Pulse** | Jeu 2D type space invaders avec effets néon | JavaScript | [GitHub](https://github.com/Maaar31/neon-pulse) |
-| 💿 **Vinyls Visualizer** | Visualiseur de vinyles interactif et immersif | JavaScript/HTML | [GitHub](https://github.com/Maaar31/vinyls-visualizer) |
-| 📊 **Calculateur EPS** | Calculateur pour les notes d'EPS | JavaScript | [GitHub](https://github.com/Maaar31/CalculateurEPS) |
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| 💬 **Awkward Response API** | API REST avec plus de 3600 réponses catégorisées + interface premium | JavaScript |
+| 🤖 **J.A.R.V.I.S** | Assistant intelligent et système d’automatisation | Python |
+| 🎵 **Spotify Music Visualizer** | Visualiseur musical interactif | JavaScript |
+| 🔐 **Password Manager** | Gestionnaire de mots de passe sécurisé | Python |
+| ✈️ **Skyline Control** | Simulateur de contrôle aérien | JavaScript |
+| 🎮 **Neon Pulse** | Jeu 2D de type arcade | JavaScript |
+| 💿 **Vinyls Visualizer** | Visualisation immersive de vinyles | JavaScript |
+| 📊 **Calculateur EPS** | Outil pratique pour les notes d’EPS | JavaScript |
 
 ---
 
-## 🌱 Ce que j’apprends
+## 🔍 Ce que je recherche
 
-- Développement d'APIs REST robustes et scalables  
-- Design systems et interfaces glassmorphism modernes  
-- Intelligence artificielle et automatisation avec Python  
-- Visualisation de données et animations interactives  
-- Architecture logicielle et patterns de conception  
-
----
-
-## 👯 Collaboration
-
-Je suis ouvert à collaborer sur :  
-- Applications web interactives et innovantes  
-- APIs REST et services backend  
-- Projets de jeux 2D et visualisations créatives  
-- Outils d'automatisation et assistants intelligents  
-- Expériences utilisateur immersives avec design moderne  
+Je suis ouvert à :
+- projets web innovants
+- APIs et backends
+- jeux 2D / prototypes de gameplay
+- automatisation et IA
+- interfaces immersives
+- collaborations créatives
 
 ---
 
-## 📊 Stats GitHub
+## 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maaar31&show_icons=true&theme=radical" />
@@ -67,9 +73,16 @@ Je suis ouvert à collaborer sur :
 
 ---
 
+## 🤝 Contact
+
+- GitHub : [Maaar31](https://github.com/Maaar31)
+- Disponible pour collaborer sur des projets ambitieux
+
+---
+
 ## 🌟 Fun & Passion
 
-Entre deux lignes de code et un projet, je construis des mondes et des histoires.  
+Entre deux lignes de code et un projet, je construis des mondes et des histoires.
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="creative fun"/>
@@ -77,4 +90,4 @@ Entre deux lignes de code et un projet, je construis des mondes et des histoires
 
 ---
 
-✨ Toujours en quête de nouveaux défis, d’expériences créatives et de code propre.  
+✨ Toujours en quête de nouveaux défis, de projets créatifs et de code de qualité.
